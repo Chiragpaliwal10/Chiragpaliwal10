@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiragpaliwal10
 - 👀 I’m interested in writing,web development and coding
-- 🌱 I’m currently learning python-tkinter
+- 🌱 I’m currently learning Front-End
 - 📫 How to reach me via instagram @chiirag_joshi
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am writer
